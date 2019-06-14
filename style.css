@@ -12,3 +12,17 @@
     border-bottom-color: #A3A2A2;
     border-bottom-width: thin;
 }
+
+.nav-item {
+    padding-left: 25px;
+}
+
+
+.nav-heading {
+    font-family: 'Permanent Marker', cursive;
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+}
+
+/*-------------------------------------------landing image-------------*/
