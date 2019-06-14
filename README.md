@@ -94,3 +94,98 @@ Used for wireframes and mockup
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits :
+
+about page content taken from:
+
+https://en.wikipedia.org/wiki/Micky_Dolenz
+https://en.wikipedia.org/wiki/Michael_Nesmith
+https://en.wikipedia.org/wiki/Davy_Jones_(musician)
+https://en.wikipedia.org/wiki/Peter_Tork
+
+The discography page, images taken from
+https://www.discogs.com/The-Monkees-The-Monkees/master/23478
+https://www.discogs.com/The-Monkees-Headquarters/master/23582
+https://www.discogs.com/The-Monkees-More-Of-The-Monkees/master/23658
+https://www.discogs.com/The-Monkees-Pisces-Aquarius-Capricorn-Jones-Ltd/master/96919
+https://www.discogs.com/The-Monkees-Head/master/23565
+https://www.discogs.com/The-Monkees-The-BirdsBees-The-Monkees/master/96914
+https://www.discogs.com/The-Monkees-The-Monkees-Present/master/97850
+https://www.discogs.com/The-Monkees-Instant-Replay/master/278541
+https://www.discogs.com/The-Monkees-Pool-It/master/280558
+https://www.discogs.com/The-Monkees-Justus/master/361507
+https://www.discogs.com/The-Monkees-Good-Times/master/1008317
+
+The home page images taken from
+https://www.discogs.com/The-Monkees-Last-Train-To-Clarksville/master/96932
+https://www.discogs.com/The-Monkees-Im-A-Believer-Im-Not-Your-Steppin-Stone/master/23460
+https://dancingastronaut.com/2019/01/vinyl-sales-grew-nearly-15-percent-2018-continuing-13-year-growth-pattern/
+https://www.pinterest.ie/pin/492581277978104818/?lp=true
+https://unsplash.com/photos/NcdG9mK3PBY
+
+Acknowledgements:
+My mentor Marantha was a massive help, really gave great direction, insight and feedback.
+The beach boys website was a big inspiration 
+
+
