@@ -40,6 +40,37 @@
 
 /*---------------------------------------------listen----------------*/
 
+.listen {
+    background: url(/assets/images/home-images/listen-img/minkee-vinyl-listen.jpg) center no-repeat fixed;
+    padding: 0;
+    margin: 0;
+    background-color: #E3DDD2;
+    border-bottom: groove;
+    border-bottom-color: #f9f3e7;
+    border-bottom-width: thick;
+}
+
+
+.listen-heading,
+.listen-subheading {
+    font-family: 'Permanent Marker', cursive;
+    color: #f9f3e7;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.card-title-listen {
+    font-size: medium;
+    font-weight: 400;
+    color: #f9f3e7;
+}
+
+.opaque-overlay-listen {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+    padding-top: 25;
+}
+
 
 
 /*------------------------------------Tour dates---------*/
@@ -72,8 +103,9 @@
     padding-bottom: 25px;
 }
 
-.opaque-overlay {
+.opaque-overlay-td {
     background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 25px;
 }
 
 .button-td {
