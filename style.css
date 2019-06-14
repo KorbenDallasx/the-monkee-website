@@ -83,6 +83,35 @@
 
 /*----------------------------------Contact------------*/
 
+.bg-color-contact {
+    background-color: #F9F3E7;
+    border-bottom: groove;
+    border-bottom-color: #f9f3e7;
+    border-bottom-width: thin;
+}
+
+.heading-contact {
+    font-family: 'Permanent Marker', cursive;
+    color: #292826;
+    padding-bottom: 10px;
+    padding-top: 15px
+}
+
+.sub-heading-ct {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.form-control {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.button-ct {
+    margin-left: 15px;
+    margin-top: 20px;
+}
 
 
 
