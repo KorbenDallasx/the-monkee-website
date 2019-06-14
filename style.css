@@ -113,7 +113,11 @@
     margin-top: 20px;
 }
 
-
+ @media (min-width: 767.98px) {
+    .form-group {
+        padding-left: 400px;
+    }
+}
 
 /*---------------------------footer---------*/
 
