@@ -25,13 +25,77 @@
     text-align: center;
 }
 
+
 /*-------------------------------------------landing image-------------*/
 
 .landing {
     padding: 0;
     margin: 0;
+    border-bottom: groove;
+    border-bottom-color: #f9f3e7;
+    border-bottom-width: thick;
 }
 
 
 
 /*---------------------------------------------listen----------------*/
+
+
+
+/*------------------------------------Tour dates---------*/
+
+.tour-dates {
+    background: url(/assets/images/home-images/nainoa-shizuru-80385-unsplash.jpg) center fixed;
+    height: auto;
+    padding: 0px;
+    background-position: center;
+    border-bottom: groove;
+    border-bottom-color: #f9f3e7;
+    border-bottom-width: thick;
+}
+
+.heading-td {
+    font-family: 'Permanent Marker', cursive;
+    color: #f8f8f8;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.sub-heading-td,
+.date-place,
+.list-item-td {
+    font-family: 'Permanent Marker', cursive;
+    color: #E8E8E8;
+    text-transform: uppercase;
+    text-shadow: #E8E8E8;
+    padding-bottom: 25px;
+}
+
+.opaque-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.button-td {
+    margin-bottom: 20px;
+}
+
+
+/*----------------------------------Contact------------*/
+
+
+
+
+/*---------------------------footer---------*/
+
+
+
+
+/*----------------------------------------discography-----------*/
+
+
+
+
+
+/*-------------------------------about------------------*/
+
