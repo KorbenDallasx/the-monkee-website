@@ -228,3 +228,17 @@ footer {
 
 /*-------------------------------about------------------*/
 
+.about-heading, .bandmember, .bm-name {
+    font-family: 'Permanent Marker', cursive;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0;
+}
+
+
+.bandmate-md {
+    background-color: #E8E1D5;
+    border-bottom: groove;
+    border-color: #f8f8f8;
+    
+}
