@@ -88,7 +88,38 @@
 
 /*---------------------------footer---------*/
 
+footer {
+    background-color: #4B4A45;
+    color: #191717;
+    min-height: 100px;
+    margin: 0;
+}
 
+
+.footer-text {
+    font-family: 'Permanent Marker', cursive;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #F9D342;
+    text-align: right;
+}
+
+.social {
+    padding-top: 25px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 23px;
+    line-height: 9px;
+    text-align: center;
+    color: #292826;
+    background-color: #F9D342;
+}
 
 
 /*----------------------------------------discography-----------*/
