@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto: 100, 200, 300, 400, 500, 600, 700|Oswald: 100, 200, 300, 40, 500, 600, 700');
+
+
+
+.navbar {
+    width: 100%;
+    height: auto;
+    background-color: #f9f3e7;
+    padding: 0;
+    margin: 0;
+    border-bottom: groove;
+    border-bottom-color: #A3A2A2;
+    border-bottom-width: thin;
+}
