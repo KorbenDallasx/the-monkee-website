@@ -157,8 +157,41 @@ footer {
 
 /*----------------------------------------discography-----------*/
 
+.bg-color-card-deck {
+    background-color: #e8e8e8;
+}
+
+.dg-con {
+    padding-bottom: 20px;
+}
+
+.heading-dg {
+    font-family: 'Permanent Marker', cursive;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 
 
+.card {
+    background-color: #f8f8f8;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.image-size {
+    width: 255px;
+    height: 250px;
+}
+
+.card-title {
+    font-size: medium;
+    font-weight: 400;
+
+}
 
 
 /*-------------------------------about------------------*/
