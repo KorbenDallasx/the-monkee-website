@@ -145,7 +145,7 @@
     margin-top: 20px;
 }
 
- @media (min-width: 767.98px) {
+@media (min-width: 767.98px) {
     .form-group {
         padding-left: 400px;
     }
@@ -228,7 +228,9 @@ footer {
 
 /*-------------------------------about------------------*/
 
-.about-heading, .bandmember, .bm-name {
+.about-heading,
+.bandmember,
+.bm-name {
     font-family: 'Permanent Marker', cursive;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -236,9 +238,24 @@ footer {
 }
 
 
-.bandmate-md {
+.color-border-1 {
     background-color: #E8E1D5;
-    border-bottom: groove;
-    border-color: #f8f8f8;
-    
+    border-bottom: dashed;
+    border-bottom-style: groove;
+    border-bottom-color: #060605;
+    border-width: thin;
+}
+
+.color-border-2 {
+    background-color: #F6F4EF;
+    border-bottom: dashed;
+    border-bottom-style: groove;
+    border-bottom-color: #060605;
+    border-width: thin;
+}
+
+@media (max-width: 767.98px) {
+    .bandmember {
+        display: block;
+    }
 }
