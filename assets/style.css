@@ -41,7 +41,7 @@
 /*---------------------------------------------listen----------------*/
 
 .listen {
-    background: url(assets/images/home-images/monkees-landing-img.jpg) center no-repeat fixed;
+    background: url(/assets/images/home-images/listen-img/minkee-vinyl-listen.jpg) center no-repeat fixed;
     padding: 0;
     margin: 0;
     background-color: #E3DDD2;
@@ -76,7 +76,7 @@
 /*------------------------------------Tour dates---------*/
 
 .tour-dates {
-    background: url(assets/images/home-images/nainoa-shizuru-80385-unsplash.jpg) center fixed;
+    background: url(/assets/images/home-images/nainoa-shizuru-80385-unsplash.jpg) center fixed;
     height: auto;
     padding: 0px;
     background-position: center;
