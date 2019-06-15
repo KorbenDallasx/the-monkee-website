@@ -13,6 +13,10 @@
     border-bottom-width: thin;
 }
 
+.button-col {
+    padding-right: 0;
+}
+
 .nav-item {
     padding-left: 25px;
 }

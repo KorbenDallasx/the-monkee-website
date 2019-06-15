@@ -19,7 +19,9 @@ as you listen to their musical hits.
 
 
 
-Wireframes /wireframes
+Wireframes 
+
+https://github.com/KorbenDallasx/the-monkee-website/tree/master/wireframes
 
 
 
@@ -47,7 +49,7 @@ The home page has three sections the first is the striking images of the monkees
 Below that is the listen section where you press play and can bring the 1st landing image to life with classic hits
 And below the listen section you have info where to catch the monkees playing live.
 
-*Future feature i would like the navbar to have an animation and put more picture in the carousel
+*Future feature i would like to put in a scroll down funstion at the bottom of the landing page image and put more images in the carousel
 
 *Discography section
 
@@ -92,72 +94,81 @@ Design mockup program used:
 Adobe XD https://www.adobe.com/products/xd.html
 Used for wireframes and mockup
 
+coding program used:
+
+Cloud9 ide
+used for coding and the cli terminal used to update the content on github
+
+Hosting platform:
+
+Github
+used to host the source code and deploy live  
 
 
+Testing:
+
+home page:
+
+1.navbar links direct to corrisponding labels and the logo directs to home page
+2.audio files play whin the play button is pushed
+3. the buy button in the tour date section when pressed go to a ticketmaster page to buy tickets
+4. the social links in the footer when pressed for to the corrisponding social website
+
+discography page and about page:
+
+navbar links function as intended
+footer links function as intended
+
+contact:
+
+1. form must have a valid email to be submitted
+2. submit button functions as intended
+
+responsiveness:
+
+responsiveness achieved using bootstrap
+
+responsiveness has been optimised for mobile phones and desktops
+
+navbar headings are hidden on mobile phones replaced by a toggle menu on left side
+
+home page:
+
+sub headings in the tur dates section are hidden on mobile devices and tablets
+
+Discography page:
+
+Cards are stacked on top of each other on mobile devices
+
+About page:
+
+images on the right are moved to top of media card on mobile devices 
 
 
+Bugs
 
+After pushing and deploying to github all absolute file paths didnt register and needed to be changed to relative
 
+Deployment
 
+To deploy the site go to https://github.com/KorbenDallasx/the-monkee-website
 
+settings
 
+scroll down to github pages
 
+select master branch
 
+select save
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+and follow link provided
 
 
 Credits :
 
 about page content taken from:
+
+profile images provided by the Code Institute
 
 https://en.wikipedia.org/wiki/Micky_Dolenz
 https://en.wikipedia.org/wiki/Michael_Nesmith
@@ -184,8 +195,12 @@ https://dancingastronaut.com/2019/01/vinyl-sales-grew-nearly-15-percent-2018-con
 https://www.pinterest.ie/pin/492581277978104818/?lp=true
 https://unsplash.com/photos/NcdG9mK3PBY
 
+Bootstrap:
+
+navbar, carousel, media card and contact form code was all taken from the boostrap documentation
+
 Acknowledgements:
 My mentor Marantha was a massive help, really gave great direction, insight and feedback.
-The beach boys website was a big inspiration 
+The beach boys website was a big inspiration
 
 
