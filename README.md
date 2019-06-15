@@ -199,6 +199,8 @@ Bootstrap:
 
 navbar, carousel, media card and contact form code was all taken from the boostrap documentation
 
+
+
 Acknowledgements:
 My mentor Marantha was a massive help, really gave great direction, insight and feedback.
 The beach boys website was a big inspiration
@@ -206,4 +208,4 @@ The beach boys website was a big inspiration
 Disclamer
 
 I did not design the monkees logo
-I did not take any of the photos  in this project.
+I did not take any of the photos myself in this project.
